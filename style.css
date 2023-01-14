@@ -1,0 +1,30 @@
+body{
+    font-family: cursive;
+}
+
+h1{
+    background-color: black;
+    color: aliceblue;
+    height: 50px;
+}
+
+.aquamarine{
+    color: aqua;
+}
+
+h2{
+    background-color: blueviolet;
+    color: white;
+    text-align: center;
+    font-style: italic;
+    font-weight: normal;
+    height: 40px;
+}
+
+h3{
+    background-color: lightblue;
+    text-decoration: underline;
+    text-align: right;
+    color: rebeccapurple;
+    height: 35px;
+}
